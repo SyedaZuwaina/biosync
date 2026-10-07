@@ -1,0 +1,111 @@
+[
+    {
+      "id": "kb-001",
+      "name": "Fresh Grated Ginger",
+      "thermal_property": "Warm",
+      "symptoms_targeted": ["Nauseous", "Bloated", "Cold / Chilly", "Sluggish"],
+      "tcm_energetic_impact": "Warms the middle burner (Spleen/Stomach), dispels interior cold, and descends rebellious Stomach Qi to stop nausea.",
+      "western_nutritional_impact": "Gingerol and shogaol compounds support gastric motility, may ease nausea, and offer mild anti-inflammatory action.",
+      "max_safe_dosage": "Up to 1 tsp (approx. 2g) freshly grated per serving; do not exceed 4g/day."
+    },
+    {
+      "id": "kb-002",
+      "name": "Jasmine Rice",
+      "thermal_property": "Neutral",
+      "symptoms_targeted": ["Sluggish", "Heavy / Full", "Nauseous", "Acidic"],
+      "tcm_energetic_impact": "Neutral in temperature; tonifies Spleen Qi, generates fluids, and is easy for a weakened digestive system to transform.",
+      "western_nutritional_impact": "Low-fiber, highly digestible starch that provides steady glucose without taxing the GI tract.",
+      "max_safe_dosage": "1/2 cup dry rice per serving as a base staple; no restrictive upper limit for typical use."
+    },
+    {
+      "id": "kb-003",
+      "name": "Cinnamon",
+      "thermal_property": "Warm",
+      "symptoms_targeted": ["Cold / Chilly", "Sluggish", "Bloated"],
+      "tcm_energetic_impact": "Warms Yang, invigorates the movement of stagnant Qi and Blood, and dispels interior cold.",
+      "western_nutritional_impact": "Cinnamaldehyde may support a healthy post-meal blood sugar response and has mild antimicrobial properties.",
+      "max_safe_dosage": "Up to 1/2 tsp (approx. 1-2g) per serving; do not exceed 6g/day of cassia cinnamon long-term due to coumarin content."
+    },
+    {
+      "id": "kb-004",
+      "name": "Oats",
+      "thermal_property": "Neutral",
+      "symptoms_targeted": ["Sluggish", "Heavy / Full", "Acidic"],
+      "tcm_energetic_impact": "Neutral and gently tonifying to Spleen and Stomach Qi; moistens dryness without generating dampness.",
+      "western_nutritional_impact": "Beta-glucan soluble fiber slows gastric emptying, can buffer stomach acid, and supports lasting satiety.",
+      "max_safe_dosage": "1/2 cup dry rolled oats per serving."
+    },
+    {
+      "id": "kb-005",
+      "name": "Peppermint",
+      "thermal_property": "Cold",
+      "symptoms_targeted": ["Overheated", "Nauseous", "Bloated"],
+      "tcm_energetic_impact": "Cool and aromatic; disperses Wind-Heat and moves stagnant Liver Qi to relieve distension.",
+      "western_nutritional_impact": "Menthol relaxes GI smooth muscle, which may ease bloating and nausea (avoid if reflux-prone).",
+      "max_safe_dosage": "1 tsp dried leaf (or 1 small fresh sprig) steeped as tea, once per serving."
+    },
+    {
+      "id": "kb-006",
+      "name": "Toasted Sesame Oil",
+      "thermal_property": "Warm",
+      "symptoms_targeted": ["Cold / Chilly", "Sluggish"],
+      "tcm_energetic_impact": "Warm and nourishing; moistens Blood and lubricates intestinal dryness.",
+      "western_nutritional_impact": "Monounsaturated fats add satiety and flavor without significantly increasing meal heaviness.",
+      "max_safe_dosage": "1 tsp per serving, added as a finishing oil (not for high-heat cooking)."
+    },
+    {
+      "id": "kb-007",
+      "name": "Turmeric",
+      "thermal_property": "Warm",
+      "symptoms_targeted": ["Bloated", "Heavy / Full", "Sluggish"],
+      "tcm_energetic_impact": "Warm and acrid; invigorates the movement of Qi and Blood to resolve stagnation.",
+      "western_nutritional_impact": "Curcumin exhibits anti-inflammatory properties that may support general digestive comfort.",
+      "max_safe_dosage": "1/4 tsp ground turmeric per serving; up to 1 tsp/day taken with food."
+    },
+    {
+      "id": "kb-008",
+      "name": "Honey",
+      "thermal_property": "Neutral",
+      "symptoms_targeted": ["Sluggish", "Acidic", "Cold / Chilly"],
+      "tcm_energetic_impact": "Neutral to slightly warm; tonifies Spleen Qi, moistens dryness, and harmonizes other ingredients.",
+      "western_nutritional_impact": "Provides quick, simple-sugar energy and has a mild demulcent (soothing) effect on the throat and stomach lining.",
+      "max_safe_dosage": "1 tbsp per serving. Not suitable for infants under 12 months."
+    },
+    {
+      "id": "kb-009",
+      "name": "Sea Salt",
+      "thermal_property": "Neutral",
+      "symptoms_targeted": ["Bloated", "Sluggish"],
+      "tcm_energetic_impact": "Neutral and descending; guides other flavors inward and softens hardness.",
+      "western_nutritional_impact": "Trace sodium supports basic electrolyte balance at the small quantities used here.",
+      "max_safe_dosage": "1 pinch (approx. 1/8 tsp) per serving."
+    },
+    {
+      "id": "kb-010",
+      "name": "Cardamom",
+      "thermal_property": "Warm",
+      "symptoms_targeted": ["Bloated", "Nauseous", "Cold / Chilly"],
+      "tcm_energetic_impact": "Warms the middle, moves Qi, and transforms dampness that contributes to a sense of fullness.",
+      "western_nutritional_impact": "Volatile oils act as a carminative, traditionally used to reduce gas and support digestive comfort.",
+      "max_safe_dosage": "2-3 lightly crushed pods (or 1/4 tsp ground) per serving."
+    },
+    {
+      "id": "kb-011",
+      "name": "Fennel Seed",
+      "thermal_property": "Warm",
+      "symptoms_targeted": ["Bloated", "Acidic", "Nauseous"],
+      "tcm_energetic_impact": "Warm and moving; disperses cold stagnation lodged in the Stomach to relieve pain and distension.",
+      "western_nutritional_impact": "Anethole compounds are carminative and traditionally used to ease bloating and gas.",
+      "max_safe_dosage": "1 tsp whole seeds, lightly crushed, per serving."
+    },
+    {
+      "id": "kb-012",
+      "name": "Chamomile",
+      "thermal_property": "Cold",
+      "symptoms_targeted": ["Overheated", "Brain Fog", "Nauseous"],
+      "tcm_energetic_impact": "Cooling and calming; settles the Shen (spirit) and soothes constrained Liver Qi.",
+      "western_nutritional_impact": "Apigenin has mild calming properties and is traditionally used to ease GI spasm and support relaxation.",
+      "max_safe_dosage": "1 tbsp dried flowers steeped 5 minutes, one cup per serving."
+    }
+  ]
+  
